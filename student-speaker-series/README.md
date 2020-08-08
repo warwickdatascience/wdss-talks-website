@@ -1,6 +1,6 @@
 ## Sign-up
 
-Submit your talk idea by filling out [this form](https://talks.warwickdatascience.com/student-speaker-series/).
+Submit your talk idea by filling out [this form](https://talks.warwickdatascience.com/student-speaker-series/sign-up).
 
 ## FAQs
 
