@@ -12,7 +12,7 @@ Submit your talk idea by filling out [this form](https://talks.warwickdatascienc
 
 ### What time slots are available for presenting a talk?
 
-We will be running the Student Speaker Series at Wednesday 6pm-7pm on weeks 2, 4, 6, 8, and 10 of term 1.
+We will be running the Student Speaker Series on Thursdays 6pm-7pm on weeks 17, 20 and 23 of Term 2.
 
 ### What is the deadline for applications?
 
@@ -20,11 +20,11 @@ We will be reviewing submissions on a rolling basis so there is no strict deadli
 
 ### How would I present a talk if selected?
 
-You have two options for presenting a talk. The first (and preferred option) is to stream the talk live. You would do this by joining a Zoom call we set up and sharing your screen and webcam when it's your turn to present. We will then handle the technical details and stream this feed to our YouTube channel. We will monitor the stream and be able to pause it if there are any major issues. An alternative approach (for poor internet connectivity or when live-streaming is too intimidating) is to pre-record a talk for us to play during your slot. In this case, we will still expect you to be free during the talk to answer questions directly into the chat.
+You have two options for presenting a talk. The first (and preferred option) is to stream the talk live. You would do this by joining a video call we set up and sharing your screen and webcam when it's your turn to present. We will then handle the technical details and stream this feed to our YouTube channel. We will monitor the stream and be able to pause it if there are any major issues. An alternative approach (for poor internet connectivity or when live-streaming is too intimidating) is to pre-record a talk for us to play during your slot. In this case, we will still expect you to be free during the talk to answer questions directly into the chat.
 
 ### What is the target demographic for talks?
 
-We want our talks to be accessible to all members of the society, and so we ask that the content isn't too technical or domain-specific. That isn't to say that you can't discuss such content, just make sure you introduce advanced concepts before using them. If you have an idea that is more applicable to a technical or domain-specifc crowd, reach out to us at [hello@warwickdatascience.com](mailto:hello@warwickdatascience.com) to discuss opportunities for a dedicated talk.
+We want our talks to be accessible to all members of the society, and so we ask that the content isn't too technical or domain-specific. That isn't to say that you can't discuss such content, just make sure you introduce advanced concepts before using them. If you have an idea that is more applicable to a technical or domain-specifc crowd, reach out to us at [hello@wdss.io](mailto:hello@wdss.io) to discuss opportunities for a dedicated talk.
 
 ### How long is the talk in total/how many speakers will attend?
 
@@ -56,7 +56,7 @@ We will have a technical run prior to the talk. This will involve running throug
 
 ### I have an interesting talk idea that doesn't really fit this format. What can I do?
 
-Reach out to [hello@warwickdatascience.com](mailto:hello@warwickdatascience.com) and we'll be happy to discuss further.
+Reach out to [hello@wdss.io](mailto:hello@wdss.io) and we'll be happy to discuss further.
 
 ## Example Talks
 
